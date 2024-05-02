@@ -1,3 +1,5 @@
+// Faça um programa em java que receba dois números e exiba o resultado da sua soma.
+
 import java.util.Scanner;
 public class Soma {
     public static void main(String[] args) {
